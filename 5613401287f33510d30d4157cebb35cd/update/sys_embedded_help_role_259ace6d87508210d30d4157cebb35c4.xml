@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_snc_iprod.inbound_order_user" name="x_snc_iprod.inbound_order_user">ad9ace6d87508210d30d4157cebb35c1</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>antonio</sys_created_by>
+        <sys_created_on>2024-02-11 16:39:46</sys_created_on>
+        <sys_id>259ace6d87508210d30d4157cebb35c4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ad9ace6d87508210d30d4157cebb35c1</sys_name>
+        <sys_package display_value="iProd Integration" source="x_snc_iprod">5613401287f33510d30d4157cebb35cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="iProd Integration">5613401287f33510d30d4157cebb35cd</sys_scope>
+        <sys_update_name>sys_embedded_help_role_259ace6d87508210d30d4157cebb35c4</sys_update_name>
+        <sys_updated_by>antonio</sys_updated_by>
+        <sys_updated_on>2024-02-11 16:39:46</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

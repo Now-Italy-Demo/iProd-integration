@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="a15a8e2d87508210d30d4157cebb359f" label="inbound_order" max_length="40" name="x_snc_iprod_inbound_order" type="collection">
+        <element label="CustomerId" max_length="255" name="customerid" type="string"/>
+        <element label="CustomerName" max_length="1024" name="customername" type="string"/>
+        <element label="CustomerVat" max_length="255" name="customervat" type="string"/>
+        <element label="DateTime" max_length="40" name="datetime" type="glide_date_time"/>
+        <element label="ItemCode" max_length="255" name="itemcode" type="string"/>
+        <element label="ItemId" max_length="255" name="itemid" type="string"/>
+        <element label="ItemMu" max_length="32" name="itemmu" type="string"/>
+        <element label="ItemName" max_length="1024" name="itemname" type="string"/>
+        <element label="ItemQuantity" max_length="40" name="itemquantity" type="integer"/>
+        <element label="MachineModel" max_length="1024" name="machinemodel" type="string"/>
+        <element label="MachineName" max_length="1024" name="machinename" type="string"/>
+        <element label="MachineSerialNumber" max_length="1024" name="machineserialnumber" type="string"/>
+        <element label="Status" max_length="255" name="status" type="string"/>
+    </element>
+</database>

@@ -3,5 +3,7 @@
         <element attributes="edge_encryption_enabled=true" label="Body" max_length="8000" name="body" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Caller" max_length="250" name="caller" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Headers" max_length="4000" name="headers" type="string"/>
+        <element default="0" label="Processed" max_length="40" name="processed" type="integer"/>
+        <element label="Processing Status" max_length="255" name="processing_status" type="string"/>
     </element>
 </database>
