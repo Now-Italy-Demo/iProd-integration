@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>antonio</sys_created_by>
+        <sys_created_on>2024-01-19 18:17:28</sys_created_on>
+        <sys_id>bc64405e87373510d30d4157cebb3558</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_iprod_rest_api_log.x_snc_iprod.admin</sys_name>
+        <sys_package display_value="iProd Integration" source="x_snc_iprod">5613401287f33510d30d4157cebb35cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="iProd Integration">5613401287f33510d30d4157cebb35cd</sys_scope>
+        <sys_security_acl display_value="x_snc_iprod_rest_api_log">6064005e87373510d30d4157cebb35f0</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_bc64405e87373510d30d4157cebb3558</sys_update_name>
+        <sys_updated_by>antonio</sys_updated_by>
+        <sys_updated_on>2024-01-19 18:17:28</sys_updated_on>
+        <sys_user_role display_value="x_snc_iprod.admin" name="x_snc_iprod.admin">4733c01287f33510d30d4157cebb3546</sys_user_role>
+    </sys_security_acl_role>
+</record_update>

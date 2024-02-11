@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_api_security_scheme">
+    <sys_api_security_scheme action="DELETE">
+        <allow_external_access>true</allow_external_access>
+        <api_collection display_value="Rest trigger for flow id=7e35481a87773510d30d4157cebb350b - v1">32860c9287f73510d30d4157cebb35a7</api_collection>
+        <enforce_acl/>
+        <requires_authentication>true</requires_authentication>
+        <sys_class_name>sys_api_security_scheme</sys_class_name>
+        <sys_created_by>antonio</sys_created_by>
+        <sys_created_on>2024-01-19 18:34:10</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path/>
+        <sys_id>5538c8de873b3510d30d4157cebb3543</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="iProd Integration" source="x_snc_iprod">5613401287f33510d30d4157cebb35cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="iProd Integration">5613401287f33510d30d4157cebb35cd</sys_scope>
+        <sys_update_name>sys_api_security_scheme_5538c8de873b3510d30d4157cebb3543</sys_update_name>
+        <sys_updated_by>antonio</sys_updated_by>
+        <sys_updated_on>2024-01-19 18:34:10</sys_updated_on>
+    </sys_api_security_scheme>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="iProd Integration">5613401287f33510d30d4157cebb35cd</application>
+        <file_path/>
+        <instance_id>bea33c4adb3bfd1c2f082a5913961920</instance_id>
+        <instance_name>demoallwf51440</instance_name>
+        <name>sys_api_security_scheme_5538c8de873b3510d30d4157cebb3543</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_api_security_scheme"><sys_api_security_scheme action="INSERT_OR_UPDATE"><allow_external_access>true</allow_external_access><api_collection display_value="Rest trigger for flow id=7e35481a87773510d30d4157cebb350b - v1">32860c9287f73510d30d4157cebb35a7</api_collection><enforce_acl/><requires_authentication>true</requires_authentication><sys_class_name>sys_api_security_scheme</sys_class_name><sys_created_by>antonio</sys_created_by><sys_created_on>2024-01-19 18:34:10</sys_created_on><sys_domain>global</sys_domain><sys_domain_path/><sys_id>5538c8de873b3510d30d4157cebb3543</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="iProd Integration" source="x_snc_iprod">5613401287f33510d30d4157cebb35cd</sys_package><sys_policy/><sys_scope display_value="iProd Integration">5613401287f33510d30d4157cebb35cd</sys_scope><sys_update_name>sys_api_security_scheme_5538c8de873b3510d30d4157cebb3543</sys_update_name><sys_updated_by>antonio</sys_updated_by><sys_updated_on>2024-01-19 18:34:10</sys_updated_on></sys_api_security_scheme></record_update>]]></payload>
+        <payload_hash>-2128197284</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>1e13401287f33510d30d4157cebb35d1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>antonio</sys_created_by>
+        <sys_created_on>2024-01-19 18:34:10</sys_created_on>
+        <sys_id>1538c8de873b3510d30d4157cebb3545</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18d23007a710000001</sys_recorded_at>
+        <sys_updated_by>antonio</sys_updated_by>
+        <sys_updated_on>2024-01-19 18:34:10</sys_updated_on>
+        <type>API Security Scheme</type>
+        <update_guid>1938c8de6d3b35100e6309b10a506e44</update_guid>
+        <update_guid_history>1938c8de6d3b35100e6309b10a506e44:-2128197284</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>antonio</sys_created_by>
+        <sys_created_on>2024-01-19 18:39:35</sys_created_on>
+        <sys_db_object display_value="" name="sys_api_security_scheme">sys_api_security_scheme</sys_db_object>
+        <sys_id>882d93a6fc1d4abcb16644c510632b44</sys_id>
+        <sys_metadata>5538c8de873b3510d30d4157cebb3543</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="iProd Integration" source="x_snc_iprod">5613401287f33510d30d4157cebb35cd</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="iProd Integration">5613401287f33510d30d4157cebb35cd</sys_scope>
+        <sys_scope_delete display_value="">7d8016e73554422c98f2a0ae7aa3d444</sys_scope_delete>
+        <sys_update_name>sys_api_security_scheme_5538c8de873b3510d30d4157cebb3543</sys_update_name>
+        <sys_update_version display_value="sys_api_security_scheme_5538c8de873b3510d30d4157cebb3543">1538c8de873b3510d30d4157cebb3545</sys_update_version>
+        <sys_updated_by>antonio</sys_updated_by>
+        <sys_updated_on>2024-01-19 18:39:35</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="7b54481e87373510d30d4157cebb355b" label="rest_api_log" max_length="40" name="x_snc_iprod_rest_api_log" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Body" max_length="8000" name="body" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Caller" max_length="250" name="caller" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Headers" max_length="4000" name="headers" type="string"/>
+    </element>
+</database>
